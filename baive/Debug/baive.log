@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  baive.cpp
+  baiveDoc.cpp
+  baiveView.cpp
+  HCN.cpp
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\baiveView.cpp(315,10): warning C4101:  'nen': unreferenced local variable
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\HCN.cpp(50,16): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  HINH.cpp
+  HT.cpp
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\HCN.cpp(58,9): warning C4244:  'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\HT.cpp(50,16): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  MainFrm.cpp
+  TG.cpp
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\HT.cpp(58,9): warning C4244:  'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\TG.cpp(53,26): warning C4244:  '=': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+C:\Users\Home\Desktop\Nhom 5 pro\baive\baive\TG.cpp(61,9): warning C4244:  'return': conversion from 'int' to 'float', possible loss of data
+  baive.vcxproj -> C:\Users\Home\Desktop\Nhom 5 pro\baive\Debug\baive.exe
